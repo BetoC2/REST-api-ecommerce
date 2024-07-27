@@ -1,0 +1,72 @@
+[
+    {
+        "id": "dcdd0fad-a94c-4810-8acc-5f108d3b18c3",
+        "name": "Product 1",
+        "price": 100,
+        "stock": 10,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": "f3b3b3b3-1b3b-4b3b-8b3b-5b3b3b3b3b3b",
+        "name": "Product 2",
+        "price": 200,
+        "stock": 20,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": "c3c3c3c3-3c3c-4c3c-8c3c-5c3c3c3c3c3c",
+        "name": "Product 3",
+        "price": 300,
+        "stock": 30,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": "e3e3e3e3-3e3e-4e3e-8e3e-5e3e3e3e3e3e",
+        "name": "Product 4",
+        "price": 400,
+        "stock": 40,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": "a3a3a3a3-3a3a-4a3a-8a3a-5a3a3a3a3a3a",
+        "name": "Product 5",
+        "price": 500,
+        "stock": 50,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": "b3b3b3b3-3b3b-4b3b-8b3b-5b3b3b3b3b3b",
+        "name": "Product 6",
+        "price": 600,
+        "stock": 60,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": "d3d3d3d3-3d3d-4d3d-8d3d-5d3d3d3d3d3d",
+        "name": "Product 7",
+        "price": 700,
+        "stock": 70,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": "f3f3f3f3-3f3f-4f3f-8f3f-5f3f3f3f3f3f",
+        "name": "Product 8",
+        "price": 800,
+        "stock": 80,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": "c3c3c3c3-3c3c-4c3c-8c3c-5c3c3c3c3c3c",
+        "name": "Product 9",
+        "price": 900,
+        "stock": 90,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": "e3e3e3e3-3e3e-4e3e-8e3e-5e3e3e3e3e3e",
+        "name": "Product 10",
+        "price": 1000,
+        "stock": 100,
+        "image": "https://via.placeholder.com/150"
+    }
+]
